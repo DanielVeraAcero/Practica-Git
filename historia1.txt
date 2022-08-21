@@ -1,3 +1,5 @@
 Hola
 
 Mi nombre es Daniel Vera Acero y estudie ingenieria mecanica
+
+Actualmente deseo aprender programacion y volverme desarrolador web
