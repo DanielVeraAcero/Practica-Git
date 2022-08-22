@@ -1,5 +1,18 @@
 body{
-    color: steelblue;
-    text-align: center;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    width: 70%;
+    margin: 0 auto;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid #DDDd;
+}
+#container h1{
+    font-size: 20px;
 }
